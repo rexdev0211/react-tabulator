@@ -1,0 +1,13 @@
+.home {
+  .home-box {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .btn-container {
+    display: flex;
+    justify-content: center;
+  }
+}

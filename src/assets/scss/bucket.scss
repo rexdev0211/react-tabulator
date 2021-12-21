@@ -1,0 +1,21 @@
+.bucket {
+  .custom-tab {
+    flex-direction: row;
+  }
+  .add-custom-tab {
+    min-width: 30px;
+  }
+  .remove-icon {
+    margin-left: 10px;
+    border-radius: 50%;
+    &:hover {
+      background-color: rgb(196, 196, 196);
+    }
+  }
+  .add-icon {
+    border-radius: 50%;
+    &:hover {
+      background-color: rgb(196, 196, 196);
+    }
+  }
+}
